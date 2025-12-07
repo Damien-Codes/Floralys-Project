@@ -54,9 +54,9 @@ Florelys résout ces problèmes grâce à une plateforme intuitive et efficace, 
 
 ## 👥 Collaborateurs (Fictifs — À modifier)
 
-- **Damien PINO** [damien.pinot@email.com](https://github.com/Damien-Codes)
-- **Ralys LALLALI** [ralys.lallali@email.com](https://github.com/r-lallali)
-- **Nicolas TENNEGUY** [nicolas.tenneguy@email.com](https://github.com/nicocotier2)
+- [**Damien PINO**](https://github.com/Damien-Codes)
+- [**Ralys LALLALI**](https://github.com/r-lallali)
+- [**Nicolas TENNEGUY**](https://github.com/nicocotier2)
 
 ## 🚀 Objectif
 
