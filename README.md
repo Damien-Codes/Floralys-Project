@@ -60,4 +60,4 @@ Florelys résout ces problèmes grâce à une plateforme intuitive et efficace, 
 
 ## 🚀 Objectif
 
-Faire de Florelys **la référence digitale de la fleuristerie personnalisée** en France, puis en Europe.
+Faire de Florelys **la référence digitale de la fleuristerie personnalisée** en France.
