@@ -52,7 +52,7 @@ Florelys résout ces problèmes grâce à une plateforme intuitive et efficace, 
 - CI/CD automatisé
 - Monitoring & Logs
 
-## 👥 Collaborateurs (Fictifs — À modifier)
+## 👥 Collaborateurs
 
 - [**Damien PINO**](https://github.com/Damien-Codes)
 - [**Ralys LALLALI**](https://github.com/r-lallali)
